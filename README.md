@@ -9,6 +9,7 @@ This is a back end only exercise. In your routes, simply `render` or `redirect` 
 ## Set Up
 
 ```sh
+npm install -g mocha
 npm install
 nodemon
 ```
